@@ -1,0 +1,93 @@
+{
+  "photos": [{
+    "meno": "les",
+    "zdroj": "./photos/obr1.jpg",
+    "datumACas": "27.9.2022 14:25",
+    "GPSx": "49.3728446",
+    "GPSy": "18.4362896",
+    "opis": "les a priroda",
+    "marker": "1"
+  },
+    {
+      "meno": "jazero",
+      "zdroj": "./photos/obr2.jpg",
+      "datumACas": "20.3.2020 13:20",
+      "GPSx": "49.3728446",
+      "GPSy": "18.4362896",
+      "opis": "les a jazero",
+      "marker": "1"
+    },
+    {
+      "meno": "priroda",
+      "zdroj": "./photos/obr3.jpg",
+      "datumACas": "27.9.2022 14:25",
+      "GPSx": "49.3728446",
+      "GPSy": "18.4362896",
+      "opis": "vela zelene",
+      "marker": "1"
+    },
+    {
+      "meno": "luka",
+      "zdroj": "./photos/obr4.jpg",
+      "datumACas": "9.9.2019 9:15",
+      "GPSx": "48.6363144",
+      "GPSy": "19.332364",
+      "opis": "priroda a luka",
+      "marker": "2"
+    },
+    {
+      "meno": "more",
+      "zdroj": "./photos/obr5.jpg",
+      "datumACas": "15.8.2021 14:55",
+      "GPSx": "48.784928",
+      "GPSy": "22.002042",
+      "opis": "more a plaz",
+      "marker": "3"
+    },
+    {
+      "meno": "plaz",
+      "zdroj": "./photos/obr6.jpg",
+      "datumACas": "30.6.2019 13:30",
+      "GPSx": "48.784928",
+      "GPSy": "22.002042",
+      "opis": "more, plaz a palmy",
+      "marker": "3"
+    },
+    {
+      "meno": "hora",
+      "zdroj": "./photos/obr7.jpg",
+      "datumACas": "28.5.2010 14:25",
+      "GPSx": "48.6363144",
+      "GPSy": "19.332364",
+      "opis": "hory a jazero",
+      "marker": "2"
+    },
+    {
+      "meno": "sneh",
+      "zdroj": "./photos/obr8.jpg",
+      "datumACas": "8.8.2022 12:05",
+      "GPSx": "48.6363144",
+      "GPSy": "19.332364",
+      "opis": "zasnezena krajina",
+      "marker": "2"
+    },
+    {
+      "meno": "priroda",
+      "zdroj": "./photos/obr9.jpg",
+      "datumACas": "2.5.2020 19:30",
+      "GPSx": "48.6363144",
+      "GPSy": "19.332364",
+      "opis": "hory a les",
+      "marker": "1"
+    },
+    {
+      "meno": "mesto",
+      "zdroj": "./photos/obr10.jpg",
+      "datumACas": "1.11.2022 8:25",
+      "GPSx": "48.202484",
+      "GPSy": "16.431973",
+      "opis": "mesto a domy",
+      "marker": "4"
+    }
+  ]
+}
