@@ -1,9 +1,6 @@
 # Interactive Photo Gallery Map
 
-# interactive-photo-gallery-map
-
 This repository contains a web application developed as a school project to demonstrate a dynamic photo gallery paired with an interactive map. The gallery reads image metadata from a local JSON file and presents square thumbnails that can be filtered in real time by title or description. Clicking any thumbnail launches a full-screen lightbox powered by Fancybox v4, offering zoom, slideshow, fullscreen mode, download, and thumbnail navigation. The map is built with Leaflet and OpenStreetMap tiles, placing markers at each photo’s GPS coordinates; selecting a marker brings up a location-specific gallery, and a “Route” toggle draws a chronological path between photos while calculating and displaying the total distance. The app is implemented using modern web standards (HTML5, CSS3, JavaScript ES6+) and Bootstrap for responsive layout and styling.
-
 
 **Features & Implementation:**
  - **Photo Gallery**
